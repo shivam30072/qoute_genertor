@@ -4,4 +4,4 @@
 <h4>2. Couldn't apply the bookmark functionality because of time</h4>
 <h4>3. I have written comments all around the code for better understanding.</h4>
 
-<h1>Thank You For Reading</h1>
+<h6>So you really read all the steps thank you!</h6>
